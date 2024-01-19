@@ -1,16 +1,19 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+## ToDo List App!!
+Create an app where you can add, complete and delete tasks.
 
-¡Hola, Platzinauta!
+It has data storage in your local storage
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+enjoy it!
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+## Screenshots
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+![todoapp1](https://github.com/devjurek/todoapp/assets/103774115/493220e3-0aee-46f9-ba2a-64f3a4c557eb)
 
-## Getting Started with Create React App
+![todoapp2](https://github.com/devjurek/todoapp/assets/103774115/387b40d8-c0df-423e-9e12-db42938424be)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![todoapp3](https://github.com/devjurek/todoapp/assets/103774115/2e7436bf-251e-4fb3-ad19-8a1aa414fa09)
+
+![todoapp4](https://github.com/devjurek/todoapp/assets/103774115/9f4f4a3c-e0ee-4a28-b39e-fa171ecd6c2b)
 
 ## Available Scripts
 
@@ -32,8 +35,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -44,32 +45,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
