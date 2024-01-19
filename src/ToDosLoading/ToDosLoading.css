@@ -55,3 +55,39 @@ animation: loadingAnimation 3s ease-in-out infinite;
     background-position: 0% 50%;
 }
 }
+
+@media (max-width:1280px) {
+    .LoadingTodo-container{
+        width:46%;
+    }
+}
+
+@media (max-width:1080px) {
+    .LoadingTodo-container{
+        width:55%;
+    }
+}
+
+@media (max-width:1024px) {
+    .LoadingTodo-container{
+        width:65%;
+    }
+}
+
+@media (max-width:812px) {
+    .LoadingTodo-container{
+        width:72%;
+    }
+}
+
+@media (max-width:720px) {
+    .LoadingTodo-container{
+        width:78%;
+    }
+}
+
+@media (max-width:640px) {
+    .LoadingTodo-container{
+        width:76%;
+    }
+}
