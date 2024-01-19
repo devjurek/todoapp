@@ -16,8 +16,38 @@
     text-decoration:line-through;
 }
 
-@media (max-width:600px) {
-    li{
-        width:100%;
+@media (max-width:1280px) {
+    .TodoItem{
+        width:46%;
+    }
+}
+
+@media (max-width:1080px) {
+    .TodoItem{
+        width:55%;
+    }
+}
+
+@media (max-width:1024px) {
+    .TodoItem{
+        width:65%;
+    }
+}
+
+@media (max-width:812px) {
+    .TodoItem{
+        width:72%;
+    }
+}
+
+@media (max-width:720px) {
+    .TodoItem{
+        width:78%;
+    }
+}
+
+@media (max-width:640px) {
+    .TodoItem{
+        width:76%;
     }
 }
