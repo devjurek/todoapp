@@ -1,0 +1,25 @@
+.Icon-svg {
+    width: 24px;
+    height: 24px;
+}
+
+.Icon-svg-check:hover{
+    color:green;
+}
+
+.Icon-container-check,
+.Icon-container-delete{
+    cursor:pointer;
+}
+
+.Icon-container-check--active{
+    color:green;
+}
+
+.Icon-container-check:hover .Icon-svg{
+    fill:green;
+}
+
+.Icon-container-delete:hover .Icon-svg{
+    fill:rgb(190, 5, 30);
+}

@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    color:white;
+    margin: 20px auto;  
+    
+
+}
+
+.title h1{
+    color:rgb(255, 255, 255);
+    background-color:white;
+    width: 30%;
+    margin: 10px auto;
+    text-shadow: #e753bf 2px 2px 0, #53e7e0 4px 4px 0;
+    padding:1%;
+    border-radius: 10px;
+    box-shadow: #094c66 5px 5px 0;
+    
+    
+}
+
+.title h2{
+    text-shadow: #094c66 1.5px 1.5px 0;
+}
+
+.title span{
+    /* Aqui colocare el color del span */
+}
+
+@media screen and (max-width:800px) {
+    .title h1{
+        width: 50%;
+    }
+}
+
+.TodoCounter--load{
+    opacity: 25%;
+}
